@@ -35,6 +35,10 @@
   * [Inlining JavaScript](reference/javascript-interop/javascript-interop.md)
   * [Decoding Objects](reference/javascript-interop/decoding-objects.md)
 
+## Core
+
+* [Array](core/array.md)
+
 ## TODO
 
 * [Packages](todo/packages.md)
